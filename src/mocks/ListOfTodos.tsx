@@ -7,7 +7,7 @@ export const ListOfTodos = [
   {
     id: 2,
     text: 'Go to the gym',
-    completed: true
+    completed: false
   },
   {
     id: 3,
